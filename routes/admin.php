@@ -11,8 +11,8 @@
 |
 */
 
-
-Route::get('/admin', function () {
-    return 'hellow admin';
-});
+//
+//Route::get('/admin', function () {
+//    return 'hellow admin';
+//});
 

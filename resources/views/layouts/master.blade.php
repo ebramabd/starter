@@ -73,6 +73,11 @@
         <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free Html Templates</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a></p>
     </div>
 </div>
+
+
+<main class="py-4">
+    @yield('content')
+</main>
 <!-- copyright section end -->
 <!-- Javascript files-->
 <script src="js/jquery.min.js"></script>

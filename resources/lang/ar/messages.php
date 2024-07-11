@@ -14,6 +14,12 @@ return [
     */
 
     'welcome'=>'اهلا',
-    'hello'=>'مرحبا'
+    'hello'=>'مرحبا',
+    'offer name required'=>'هذا الحقل مطلوب',
+    'offer name'=>'اسم العرض',
+    'offer price'=>'سعر العرض',
+    'offer details'=>'تفاصيل العرض',
+    'update'=>'تعديل',
+    'operation'=>'عمليات',
 
 ];

@@ -15,6 +15,11 @@ return [
 
 
     'welcome'=>'WELCOME',
-    'hello'=>'HELLO'
+    'hello'=>'HELLO',
+    'offer name'=>'offer name',
+    'offer price'=>'offer price',
+    'offer details'=>'offer details',
+    'update'=>'update',
+    'operation'=>'operation',
 
 ];
